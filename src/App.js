@@ -5,7 +5,7 @@ import Login_Page from './Content/Login_Page/Login_Page';
 function App() {
   return (
     <div>
-      <Login_Page/>
+
     </div>
   );
 }
